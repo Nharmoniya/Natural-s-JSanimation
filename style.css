@@ -1,0 +1,19 @@
+*{
+  box-sizing: border-box;
+  margin: 0;
+}
+table{
+}
+ul{
+  list-style: none;
+  text-align: center;
+  float: left;
+}
+li{
+  text-align: center;
+  width: 200px;
+  height: 50px;
+}
+a{
+  text-decoration: none;
+}
